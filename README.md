@@ -1,16 +1,15 @@
 <div id="header" align="center">
 
-<h1><img src="https://cliply.co/wp-content/uploads/2022/03/392203010_UKRAINE_HEART_400.gif" width="50"/>Hi! I am Viktoriia 😊</h1>
-  <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/viktoriia-fuchyzhy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Victory-F&style=flat-square&color=yellow" alt=""/>
+  
+<h1><img src="https://cliply.co/wp-content/uploads/2022/03/392203010_UKRAINE_HEART_400.gif" width="50"/>Hi! I am Viktoriia 😊</h1>
 </div>
-
----
 
 ### :woman_technologist: About Me :
 
