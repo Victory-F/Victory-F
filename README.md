@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<img src="https://cliply.co/wp-content/uploads/2022/03/392203010_UKRAINE_HEART_400.gif" width="50"/>
-<h1>Hi! I am Viktoriia 😊</h1>
+
+<h1><img src="https://cliply.co/wp-content/uploads/2022/03/392203010_UKRAINE_HEART_400.gif" width="50"/>Hi! I am Viktoriia 😊</h1>
   <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/viktoriia-fuchyzhy/">
