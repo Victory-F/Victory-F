@@ -19,8 +19,6 @@
 
 - :netherlands: I live in Amsterdam.
 
-- :mortar_board: I have just graduated from <a href="https://codaisseur.com/courses/academy/" alt="Codaisseur Full Stack JavaScript Academy">Codaisseur Full Stack JavaScript Academy</a>.
-
 - :stuck_out_tongue: I speak 🇬🇧 🇺🇦 🇮🇹.
 
 - :zap: In my free time I enjoy: dancing :dancer: | yoga :lotus_position_woman: | walking :leaves: | board games :game_die: | video games  :video_game: | watching movies :movie_camera:.
