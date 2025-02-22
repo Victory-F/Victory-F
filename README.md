@@ -17,7 +17,7 @@
 
 - :ukraine: I am from Ukraine.
 
-- :netherlands: I live in Hilversum.
+- :netherlands: I live in the Netherlands.
 
 - :stuck_out_tongue: I speak 🇬🇧 🇺🇦 🇮🇹.
 
@@ -35,7 +35,6 @@
 <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThy0w2wYMMH4foeX0JMg4bdGyNLne6inaP5y2FJMu98DDmulkKIOPhzPY54HPfl_hTOeM&usqp=CAU" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://plugins.miniorange.com/wp-content/uploads/2021/06/REST-API-icon.jpg" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
-<img src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -51,8 +50,5 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Victory-F&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victory-F&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
