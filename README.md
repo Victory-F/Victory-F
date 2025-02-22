@@ -13,15 +13,15 @@
 
 ### :woman_technologist: About Me :
 
-- :computer: I am a passionate Full Stack Web Developer.
+- :computer: I am a Full-Stack Developer.
 
 - :ukraine: I am from Ukraine.
 
-- :netherlands: I live in Amsterdam.
+- :netherlands: I live in Hilversum.
 
 - :stuck_out_tongue: I speak 🇬🇧 🇺🇦 🇮🇹.
 
-- :zap: In my free time I enjoy: dancing :dancer: | yoga :lotus_position_woman: | walking :leaves: | board games :game_die: | video games  :video_game: | watching movies :movie_camera:.
+- :zap: In my free time I enjoy: dancing :dancer: | yoga :lotus_position_woman: | hiking :leaves: | board games :game_die: | video games  :video_game: | watching movies :movie_camera:.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
